@@ -22,7 +22,7 @@ The program generates strong and secure passwords based on user-defined length u
 ### Demo Video
 Watch the project demonstration here:
 
-[Demo Video](PASTE_YOUR_YOUTUBE_VIDEO_LINK_HERE)
+[Demo Video](https://youtu.be/3tkQfnLjOSw)
 
 ### Outcome
 This project demonstrates the use of Python's randomization and string manipulation to generate secure passwords.  
